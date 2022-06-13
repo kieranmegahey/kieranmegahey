@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kieranmegahey/kieranmegahey/blob/main/Kieran_Cartoon.gif"  width="250" />
+  <img src=""  width="250" />
 </p>
 
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MongoDB, Cypress & NextJS**
 
-<!-- - 👨‍💻 All of my projects are available at [www.kieranmegahey.com](https://kieranmegahey.com) -->
+👨‍💻 All of my projects are available at [www.kieranmegahey.com](https://kieranmegahey.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
